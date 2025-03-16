@@ -1,7 +1,7 @@
 
-def your_code():
+def your_code(number):
 
-    number = 8
+    number = 20
 
     remainder = number % 2
 
@@ -11,6 +11,4 @@ def your_code():
         return False
     
 
-
-if __name__ == '__main__':
-    your_code()
+your_code(10)
