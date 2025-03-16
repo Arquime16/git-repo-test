@@ -5,7 +5,7 @@ def your_code(number):
 
     remainder = number % 2
 
-    if remainder == 1:
+    if remainder == 2:
         return True
     else:
         return False
